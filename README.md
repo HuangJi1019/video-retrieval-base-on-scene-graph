@@ -20,3 +20,5 @@ videoname.npz:
 	objects_embeddings:[objects_len, 384]
  	relations_embeddings:[relations_len,384]
   	adj_matrix:[objects_len,relations_len]
+
+annotationssg_temporal_train_1.pkl: the scene graphs of all train videos, every video has one sg.
