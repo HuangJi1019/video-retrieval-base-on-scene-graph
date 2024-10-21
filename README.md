@@ -22,3 +22,5 @@ videoname.npz:
   	adj_matrix:[objects_len,relations_len]
 
 annotationssg_temporal_train_1.pkl: the scene graphs of all train videos, every video has one sg.
+
+52.DSG-DETR2/hj_test.ipynb: the preprocessing code of sg and it's npz file.
