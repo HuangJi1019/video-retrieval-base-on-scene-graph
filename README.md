@@ -14,3 +14,9 @@ next step:
 2. timestamp normalization
 3. query embedding
 4. ....
+
+sg folder:(sentences bert)
+videoname.npz:
+	objects_embeddings:[objects_len, 384]
+ 	relations_embeddings:[relations_len,384]
+  	adj_matrix:[objects_len,relations_len]
